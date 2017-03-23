@@ -1,4 +1,4 @@
-# Portfolio
+# PHP Projects
 
 # About  
 This github repo is a representation of work that I have completed throughout my time at Full Sail University while studying Web Design and Development. 
